@@ -1,0 +1,6 @@
+# Path pattern, then one or more owners
+*                 @eidraky
+/lib/screens/     @eidraky
+/lib/state/       @eidraky
+pubspec.yaml      @eidraky
+/.github/         @eidraky
